@@ -12,12 +12,13 @@ The before-workshop folder provides setup information using a virtual machine (u
 
 This is what we do in the banking in the cloud workshop:
 
-1. Introduction to the technology stack includes introductions to... 
-  1.1 Microservices Architectures
-  1.2 Spring Boot
-    1.1.1 Spring Boot Basics (REST controller, ...)
-    1.1.2 Spring Cloud Config 
-    1.1.3 Spring Data & Flyway
+1. Introduction to the technology stack includes introductions to...
+
+  1. Microservices Architectures
+  2. Spring Boot
+    1. Spring Boot Basics (REST controller, ...)
+    2. Spring Cloud Config 
+    3. Spring Data & Flyway
   1.3 Service Discovery (Eureka)
   1.4 Messaging and Event Sourcing (ActiveMQ)
   1.5 Docker & Docker-Compose
