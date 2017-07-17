@@ -12,7 +12,7 @@ The before-workshop folder provides setup information using a virtual machine (u
 
 This is what we do in the banking in the cloud workshop:
 
-Introduction to the technology stack includes:
+### Introduction to the technology stack
   
 1. Microservices Architectures
 2. Spring Boot - Spring Boot Basics (REST controller, ...), Spring Cloud Config, Spring Data & Flyway
@@ -20,14 +20,14 @@ Introduction to the technology stack includes:
 4. Messaging and Event Sourcing (ActiveMQ)
 5. Docker & Docker-Compose
 
-Introduction to cloud-computing includes:
+### Introduction to cloud-computing
   
 1. Definition and basics of cloud computing
 2. Introduction to amazon AWS platform 
 
-Setup and startup fineract-project:
+### Setup and startup fineract-project
 
-   Detailed information can be found in the [BankingInTheCloud-Fineract repo](https://github.com/senacor/BankingInTheCloud-Fineract)
+Detailed information can be found in the [BankingInTheCloud-Fineract repo](https://github.com/senacor/BankingInTheCloud-Fineract)
 
 **Goal:** After the workshop participants are able to work with the fineract project. They understand the basic concepts of microservices architectures and the tools that are necessary to work with them. After the workshop participants are able to explore the fineract project in depth on their own.   
 
