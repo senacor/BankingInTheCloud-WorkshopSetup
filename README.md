@@ -15,10 +15,7 @@ This is what we do in the banking in the cloud workshop:
 Introduction to the technology stack includes:
   
 1. Microservices Architectures
-2. Spring Boot
-   
-   Spring Boot Basics (REST controller, ...), Spring Cloud Config, Spring Data & Flyway
-  
+2. Spring Boot - Spring Boot Basics (REST controller, ...), Spring Cloud Config, Spring Data & Flyway
 3. Service Discovery (Eureka)
 4. Messaging and Event Sourcing (ActiveMQ)
 5. Docker & Docker-Compose
