@@ -5,7 +5,7 @@ It is assumed that you did the steps in the folder ```before-workshop``` already
 
 ## Running and shutting down the machine
 
-If you did a local setup (not using the Vagrant VM) you can jump to [section Getting the Code]() immediately.
+If you did a local setup (not using the Vagrant VM) you can jump to [section Getting the Code](https://github.com/senacor/BankingInTheCloud-WorkshopSetup/tree/master/during-workshop#getting-the-code) immediately.
 
 ### First startup of machine
 
@@ -17,7 +17,7 @@ Don't just run ```vagrant init``` with the javadev machine, it will not provisio
 3. run command: ```vagrant up```
 4. The machine will start up with GUI.
 5. Log in with password ```vagrant```
-6. Move on to [section Getting the Code]()
+6. Move on to [section Getting the Code](https://github.com/senacor/BankingInTheCloud-WorkshopSetup/tree/master/during-workshop#getting-the-code)
 
 Note:  Instead of cloning the repository (step 1) you can also create an empty folder and copy the Vagrantfile and the bootstrap.sh file into it. Vagrant needs these 2 files to manage the machine.
 
