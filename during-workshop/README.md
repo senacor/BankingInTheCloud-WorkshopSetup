@@ -5,6 +5,8 @@ It is assumed that you did the steps in the folder ```before-workshop``` already
 
 ## Running and shutting down the machine
 
+If you did a local setup (not using the Vagrant VM) you can jump to [section Getting the Code]() immediately.
+
 ### First startup of machine
 
 To run the machine you have to use the ```Vagrantfile``` and ```bootstrap.sh``` provisioning script provided in [BankingInTheCloud-VM folder](https://github.com/senacor/BankingInTheCloud-WorkshopSetup/tree/master/during-workshop/BankingInTheCloud-VM)!
@@ -13,12 +15,9 @@ Don't just run ```vagrant init``` with the javadev machine, it will not provisio
 1. Clone this repository. 
 2. Navigate to folder ```BankingInTheCloud-VM``` in your terminal.
 3. run command: ```vagrant up```
-4. Wait until the command line output finishes (provisioning will be done headless).
-5. run command: ```vagrant halt```
-6. Wait until the machine was "gracefully shut down"
-7. run command (again): ```vagrant up```
-8. The machine will start up with GUI now.
-9. Log in with password ```vagrant```
+4. The machine will start up with GUI.
+5. Log in with password ```vagrant```
+6. Move on to [section Getting the Code]()
 
 Note:  Instead of cloning the repository (step 1) you can also create an empty folder and copy the Vagrantfile and the bootstrap.sh file into it. Vagrant needs these 2 files to manage the machine.
 
@@ -87,3 +86,9 @@ Most likely your ["hardware virtualization" is deactivated in BIOS](https://stac
 3. Once an error appears: google it
 
 All the "hang" we encountered so far were caused by the hardware virtualization deactivated problem.
+
+## Getting the Code
+
+In order to get the code you have to [fork](https://help.github.com/articles/fork-a-repo/) the [BankingInTheCloud-Fineract repo](https://github.com/senacor/BankingInTheCloud-Fineract) into your github account.
+
+After you forked the repository you can clone your fork (the forked version of the repository in your github account) into a directory; either in the Vagrant VM (if you plan to use it) or into a local directory on your notebook.
