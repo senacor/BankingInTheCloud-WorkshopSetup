@@ -7,8 +7,8 @@ It is assumed that you did the steps in the folder ```before-workshop``` already
 
 ### First startup of machine
 
-To run the machine you have to use the ```Vagrantfile``` and ```bootstrap.sh``` provisioning script provided in folder ```provision-ethdev```!
-Don't just run ```vagrant init``` with the ethdev machine, it will not provision as wanted. 
+To run the machine you have to use the ```Vagrantfile``` and ```bootstrap.sh``` provisioning script provided in [BankingInTheCloud-VM folder](https://github.com/senacor/BankingInTheCloud-WorkshopSetup/tree/master/during-workshop/BankingInTheCloud-VM)!
+Don't just run ```vagrant init``` with the javadev machine, it will not provision as wanted. 
 
 1. Clone this repository. 
 2. Navigate to folder ```BankingInTheCloud-VM``` in your terminal.
