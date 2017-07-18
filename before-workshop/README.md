@@ -8,7 +8,7 @@ The setup we propose will provide you with an lubuntu machine (with GUI) that in
 Requirements for using the Vagrant machine:
 
 * About ~15GB of free disk space. 
-* Your notebook should have at least 10GB RAM (4GB for the host, 6GB for test guest)
+* Your notebook should have at least 10GB RAM (4GB for the host, 6GB for the guest)
 * VirtualBox
 * Vagrant
 
