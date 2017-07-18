@@ -29,6 +29,8 @@ This is what we do in the banking in the cloud workshop:
 
 Detailed information can be found in the [BankingInTheCloud-Fineract repo](https://github.com/senacor/BankingInTheCloud-Fineract)
 
-**Goal:** After the workshop participants are able to work with the fineract project. They understand the basic concepts of microservices architectures and the tools that are necessary to work with them. After the workshop participants are able to explore the fineract project in depth on their own.   
+## Workshop Goal
+
+After the workshop participants are able to work with the fineract project. They understand the basic concepts of microservices architectures and the tools that are necessary to work with them. After the workshop participants are able to explore the fineract project in depth on their own.   
 
 Note that it depends on the workshop time and number of participants how much of the outline can really be done. The workshop is generally designed for five whole day, but can be shortened to two-four days. Workshops shorter than five days might not include the complete setup of fineract but a simpler example.
