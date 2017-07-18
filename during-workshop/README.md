@@ -81,7 +81,7 @@ Most likely your ["hardware virtualization" is deactivated in BIOS](https://stac
 
 *If no:*
 
-1. Check if you your internet connection works properly
+1. Check if your internet connection works properly
 2. Wait for about ~5 minutes to see if an error appears.
 3. Once an error appears: google it
 
