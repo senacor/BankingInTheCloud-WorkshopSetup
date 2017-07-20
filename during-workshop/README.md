@@ -92,3 +92,12 @@ All the "hang" we encountered so far were caused by the hardware virtualization 
 In order to get the code you have to [fork](https://help.github.com/articles/fork-a-repo/) the [BankingInTheCloud-Fineract repo](https://github.com/senacor/BankingInTheCloud-Fineract) into your github account.
 
 After you forked the repository you can clone your fork (the forked version of the repository in your github account) into a directory; either in the Vagrant VM (if you plan to use it) or into a local directory on your notebook.
+
+### Configuration pull-request
+
+Once you have a local copy of the forked repository:
+
+1. Create your own branch
+2. Ask the instructors for the workshop-branch name in the master repository
+3. [Create a pull request from your fork against the workshop-branch of the master repository](https://help.github.com/articles/creating-a-pull-request-from-a-fork/).
+

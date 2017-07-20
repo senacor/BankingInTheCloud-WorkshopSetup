@@ -27,10 +27,12 @@ This is what we do in the banking in the cloud workshop:
 
 ### Setup and startup fineract-project
 
+To avoid name confusion: In the workshop we work with a new version of fineract, that is called [Mifos I/O project](https://github.com/mifosio/). Mifos I/O will proposed as new architecture for the next [apache fineract project](https://github.com/apache/fineract) version.
+
 Detailed information can be found in the [BankingInTheCloud-Fineract repo](https://github.com/senacor/BankingInTheCloud-Fineract)
 
 ## Workshop Goal
 
-After the workshop participants are able to work with the fineract project. They understand the basic concepts of microservices architectures and the tools that are necessary to work with them. After the workshop participants are able to explore the fineract project in depth on their own.   
+After the workshop participants are able to work with the [Mifos I/O project](https://github.com/mifosio/). They understand the basic concepts of microservices architectures and the tools that are necessary to work with them. After the workshop participants are able to explore the [Mifos I/O project](https://github.com/mifosio/) in depth on their own.   
 
-Note that it depends on the workshop time and number of participants how much of the outline can really be done. The workshop is generally designed for five whole day, but can be shortened to two-four days. Workshops shorter than five days might not include the complete setup of fineract but a simpler example.
+Note that it depends on the workshop time and number of participants how much of the outline can really be done. The workshop is generally designed for five whole day, but can be shortened to two-four days. Workshops shorter than five days might not include the complete setup of Mifos I/O but a simpler example.
