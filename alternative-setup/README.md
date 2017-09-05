@@ -17,6 +17,7 @@ You need the following tools:
 * Maven 
 * Chrome
 * Postman (Chrome extension)
+* MySQL Server
 * dBeaver (optional)
 
 Furthermore you have to clone the [BankingInTheCloud-Fineract repo](https://github.com/senacor/BankingInTheCloud-Fineract/).
